@@ -1,2 +1,3 @@
 # hello-world
-new
+
+It's first time to use Github.
